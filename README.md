@@ -2,4 +2,4 @@
 in this repo there are some c++ codes
 <hr>
 simple codes
-hello me
+I will update it soon
